@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Personal notes — not for public repo
+CHEATSHEET.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
